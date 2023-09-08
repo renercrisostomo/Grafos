@@ -1,8 +1,6 @@
 """
 1ª QUESTÃO:
-Faça uma implementação na &#39;linguagem de sua preferencia&#39; em que o usuário irá digitar uma matriz de
-adjacência de tamanho 6x6 como entrada (input) representada por um “grafo dirigido de 6 nós”, após
-isso o programa deverá imprimir a quantidade de graus de entradas e saídas de cada nó?
+Faça uma implementação na linguagem de sua preferencia em que o usuário irá digitar uma matriz de adjacência de tamanho 6x6 como entrada (input) representada por um "grafo dirigido de 6 nós", após isso o programa deverá imprimir a quantidade de graus de entradas e saídas de cada nó?
 """
 
 def ler_matriz(n):
