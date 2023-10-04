@@ -14,7 +14,7 @@ def printar_matriz_incidencia(matriz):
         print("\n")
     print("\n")
 
-def calcular_componentes_conexos(matriz):
+def encontrar_componentes_conexos(matriz):
     numNos = len(matriz)
     numArestas = len(matriz[0])
     componentes = []
@@ -36,7 +36,7 @@ matriz = [[1, 1, 0, 0, 0, 0],
 
 printar_matriz_incidencia(matriz)
 
-componentes = calcular_componentes_conexos(matriz)
+componentes = encontrar_componentes_conexos(matriz)
 print(f"O grafo possui {len(componentes)} componentes conexos.")
 print(f"Os componentes conexos são:")
 for componente in componentes:
