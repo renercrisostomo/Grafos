@@ -29,11 +29,15 @@ def ler_lista_adjacencia(n):
         listaAdjacencia.append(linha)
     return listaAdjacencia
 
-def ordenacao_topologica(lista_adjacencia):
+def contar_graus(lista_adjacencia):
     graus = [0] * len(lista_adjacencia)
     for i in range(len(lista_adjacencia)):
         for j in range(len(lista_adjacencia[i])):
             graus[lista_adjacencia[i][j]] += 1
+    return graus
+
+def ordenacao_topologica(lista_adjacencia):
+    graus = contar_graus(lista_adjacencia)
 
     fila = []
     for i in range(len(graus)):
