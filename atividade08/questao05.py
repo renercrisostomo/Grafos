@@ -1,7 +1,6 @@
 """
 5ª QUESTÃO:
-Implemente com a linguagem de sua preferência 2 ordenações topológica do “grafo e a estrutura(lista
-de adjacência da questão 3”
+Implemente com a linguagem de sua preferência 2 ordenações topológica do "grafo e a estrutura(lista de adjacência da questão 3"
 
 A -> V e C
 V -> D e W

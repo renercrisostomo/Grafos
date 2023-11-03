@@ -1,6 +1,6 @@
 """
 1ª QUESTÃO:
-Implemente o algoritmo usando lista de adjacência para modelar o grafo abaixo ?
+Implemente o algoritmo usando lista de adjacência para modelar o grafo abaixo
 
 
 1 - 2, 4, 5

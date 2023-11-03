@@ -1,7 +1,6 @@
 """
 3ª QUESTÃO:
-Implemente uma lista de adjacência do grafo direcionado abaixo, ainda conte quantos graus tem em
-cada nó(saída e entrada)?
+Implemente uma lista de adjacência do grafo direcionado abaixo, ainda conte quantos graus tem em cada nó(saída e entrada)
 
 A -> V e C
 V -> D e W

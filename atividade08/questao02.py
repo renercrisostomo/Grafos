@@ -1,6 +1,6 @@
 """
 2ª QUESTÃO:
-Faça um algoritmo para o grafo da questão 1, em que conta quantos componentes conexos existem?
+Faça um algoritmo para o grafo da questão 1, em que conta quantos componentes conexos existem
 PS: Pode usar qualquer estrutura de grafos.
 
 1 - 2, 4, 5

@@ -1,6 +1,6 @@
 """
 4ª QUESTÃO:
-Faça um programa que conte a quantidade de graus de cada nó do grafo da questão "2"?
+Faça um programa que conte a quantidade de graus de cada nó do grafo da questão "2"
 
 - 1 ligado com 2 (aresta A), 3 (aresta B), 4 (aresta C) e 5 (aresta D);
 - 2 ligado com 1 (aresta A), 6 (aresta E) e 7 (aresta F);

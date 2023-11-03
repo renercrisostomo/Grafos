@@ -1,6 +1,6 @@
 """
 3ª QUESTÃO:
-Desenvolva uma matriz de adjacência desse grafo direcionado abaixo, ainda conte quantos graus tem em cada nó(saída e entrada)?
+Desenvolva uma matriz de adjacência desse grafo direcionado abaixo, ainda conte quantos graus tem em cada nó(saída e entrada)
 
 A -> V e C
 V -> D e W

@@ -1,7 +1,6 @@
 """
 4ª QUESTÃO:
-Implemente o algoritmo, em que a entrada é uma matriz de incidência com 4 nós 6 arestas de um
-grafo não dirigido, o programa vai mostrar a quantidade componentes conexos do grafo?
+Implemente o algoritmo, em que a entrada é uma matriz de incidência com 4 nós 6 arestas de um grafo não dirigido, o programa vai mostrar a quantidade componentes conexos do grafo
 """
 
 def printar_matriz_incidencia(matriz):
